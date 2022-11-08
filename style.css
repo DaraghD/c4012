@@ -1,0 +1,10 @@
+#button1 {
+        background-color: lightcoral;
+        color: white;
+        border: 2px solid orange;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      
+}
