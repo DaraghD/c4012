@@ -8,3 +8,35 @@
         display: inline-block;
       
 }
+#button3 { 
+    background-color: lightblue;
+        color: white;
+        border: 2px solid orange;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+
+}
+
+#button2 { 
+    background-color: darkolivegreen;
+        color: white;
+        border: 2px solid orange;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+
+}
+
+#button4 { 
+    background-color: turquoise;
+        color: white;
+        border: 2px solid orange;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+
+}
