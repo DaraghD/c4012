@@ -1,3 +1,11 @@
+
+
+body {
+    background-color: rgb(37, 35, 39);
+    color : white; 
+}
+
+
 #button1 {
         background-color: lightcoral;
         color: white;
