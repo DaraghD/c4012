@@ -3,6 +3,8 @@
 body {
     background-color: rgb(59, 58, 60);
     color : white; 
+    background-image: url();
+    background-repeat: no-repeat;
 }
 
 
