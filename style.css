@@ -1,6 +1,6 @@
 
  html{
-    background: url(LmkBackground.jpg);
+    background: url(/assets/LmkBackground.jpg);
     background-repeat: no-repeat;
     background-position: center fixed;
     -webkit-backround-size: cover;
