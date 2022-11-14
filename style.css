@@ -3,8 +3,13 @@
 body {
     background-color: rgb(59, 58, 60);
     color : white; 
-    background-image: url(assets/ul.jpg);
+    background-image: url(LmkBackground.jpg);
     background-repeat: no-repeat;
+    background-position: center fixed;
+    -webkit-backround-size: cover;
+    -moz-backround-size: cover;
+    -o-backround-size: cover;
+    background-size: cover;
 }
 
 
