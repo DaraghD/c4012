@@ -1,9 +1,8 @@
 
-
-body {
+ html{
     background-color: rgb(59, 58, 60);
     color : white; 
-    background-image: url(LmkBackground.jpg);
+    background: url(LmkBackground.jpg);
     background-repeat: no-repeat;
     background-position: center fixed;
     -webkit-backround-size: cover;
