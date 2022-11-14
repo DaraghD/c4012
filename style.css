@@ -22,12 +22,13 @@
       
 }
 
-a.#button1:hover {
+#button1:hover {
     background-color: rgb(8, 107, 139);
     color: rgb(6, 6, 6);  
     text-decoration: none;
   transition: 0.6s;
 }
+
 #button3 { 
     background-color: lightblue;
         color: white;
