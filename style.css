@@ -7,6 +7,8 @@
     -moz-backround-size: cover;
     -o-backround-size: cover;
     background-size: cover;
+    background-position: right 60px;
+    background-color: black;
 }
 
 
