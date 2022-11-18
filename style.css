@@ -7,9 +7,9 @@
     -moz-backround-size: cover;
     -o-backround-size: cover;
     background-attachment: scroll;
-    background-size: contain;
+    background-size: cover;
     background-position: right 60px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
 }
 
 
