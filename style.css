@@ -9,7 +9,7 @@
     background-attachment: scroll;
     background-size: 100%;
     background-position: right 60px ;
-    background-color: rgb(24, 23, 36);
+    background-color: rgb(255, 255, 255);
 }
 .textbox {
     background-color: rgb(169, 180, 180);
@@ -54,6 +54,6 @@ a.button1:hover{
 
 .textlol {
 text-align: center;
-    margin-top: 1000px;
-    color: white;
+    margin-top: 750px;
+    color: rgb(0, 0, 0);
 }
