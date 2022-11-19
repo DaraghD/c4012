@@ -7,7 +7,7 @@
     -moz-backround-size: cover;
     -o-backround-size: cover;
     background-attachment: scroll;
-    background-size: cover;
+    background-size: 100%;
     background-position: right 60px;
     background-color: rgb(0, 0, 0);
 }
@@ -30,4 +30,19 @@ a.button1:hover{
     background-color: rgb(93, 214, 255);  
     text-decoration: none;
     transition:0.6s;
+}
+
+.heading1 {
+    width: 90%;
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    color:white;
+    font-size: 25px;
+}
+
+.textlol {
+text-align: center;
+    margin-top: 1000px;
+    color: white;
 }
