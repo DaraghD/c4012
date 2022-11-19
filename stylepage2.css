@@ -1,58 +1,81 @@
 
 html{
-    background-color: rgb(70, 70, 70);
+    background-color: rgb(255, 255, 255);
 }
 h1{
-    width: 90%;
+    width: 50%;
 font-family: Arial;
     color:rgb(0, 0, 0);
-    line-height: 25px;
-    margin-top: -50px;
-    margin-left: 100px;
+    margin-top: -80px;
+    margin-left: 170px;
+    font-size: 35px;
 }
-p{
-width: 90%;
+
+h3{
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    color: rgb(14, 0, 141)
+}
+
+.text1{
+width: 70%;
 font-family: Arial;
     color:rgb(0, 0, 0);
-    line-height: 25px;
+    font-size: 15px;
+    line-height: 30px;
+    text-align: center;
+margin: auto
+;
+
 }
 
 #aboutUs{
-margin-top: 25px;
+margin-top: 40px;
 font-size: 40px;
 font-family: Arial;
 text-align: center;
 font-style: italic;
 background-color: aqua;
 background-repeat: no-repeat;
-background-image: url(background.jpg);
-padding:100px;
+padding:150px;
 
 }
 
 header img{
-position:relative;
-height: 80px;
-width: 80px;
+    margin: 20px;
+    margin-left: 40px;
+height: 100px;
+width: 100px;
 
 }
 
 a.button1 {
-    background-color: rgb(105, 2, 2);
-    border: 2px solid rgb(221, 241, 36);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 0, 0);
     border-radius: 9px;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
     font-family: Arial;
-margin-right:20px;
+    float: right;
+    margin-right: 40px;
     font-size: 100%;
-    color: white;
-
+    color: rgb(0, 0, 0);
 }
 
 a.button1:hover{
-background-color: rgb(93, 214, 255);  
+background-color: rgb(212, 212, 212);  
 text-decoration: none;
-transition:0.6s;
+transition:0.5s;
+}
+
+.stats1{
+font-family: Arial;
+float: left;
+text-align: center;
+width: 33%;
+left: 40%;
+
 }
