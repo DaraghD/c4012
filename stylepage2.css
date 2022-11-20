@@ -1,6 +1,12 @@
 
 html{
-    background-color: rgb(255, 255, 255);
+    background-color: aliceblue;
+}
+
+h4{
+    color: rgb(255, 255, 255);
+    margin: 20px;
+    font-size: 40px;
 }
 h1{
     width: 50%;
@@ -14,9 +20,9 @@ font-family: Arial;
 h3{
     font-family: Arial;
     text-align: center;
-    padding: 20px;
-    font-size: 25px;
-    color: rgb(14, 0, 141)
+    padding: 15px;
+    font-size: 30px;
+    color: rgb(21, 0, 114)
 }
 
 .text1{
@@ -33,11 +39,12 @@ margin: auto
 
 #aboutUs{
 margin-top: 40px;
-font-size: 40px;
+font-size: 50px;
 font-family: Arial;
+color: white;
 text-align: center;
 font-style: italic;
-background-color: aqua;
+background-color: rgb(21, 0, 114);
 background-repeat: no-repeat;
 padding:150px;
 
@@ -52,30 +59,46 @@ width: 100px;
 }
 
 a.button1 {
-    background-color: rgb(255, 255, 255);
-    border: 2px solid rgb(255, 0, 0);
+    background-color: rgb(255, 148, 112);
+    border: 2px solid rgb(131, 109, 255);
     border-radius: 9px;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
     font-family: Arial;
+    font-weight: Bold;
     float: right;
     margin-right: 40px;
     font-size: 100%;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 a.button1:hover{
-background-color: rgb(212, 212, 212);  
+background-color: rgb(255, 71, 71);  
 text-decoration: none;
 transition:0.5s;
 }
 
 .stats1{
+    color: aliceblue;
+font-size: 20px;
 font-family: Arial;
 float: left;
 text-align: center;
-width: 33%;
-left: 40%;
-
+width: 30%;
+margin-left: 15px;
+left: 50%;
+padding: 10px;
+border: 1px solid;
+border-radius: 9px;
+margin-top: 30px;
+margin-bottom: 10px;
+background-color:rgb(21, 0, 114) ;
 }
+
+h5{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
