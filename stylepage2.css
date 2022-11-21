@@ -102,3 +102,31 @@ h5{
     text-align: center;
 }
 
+
+.textbox {
+    background-color: rgb(169, 180, 180);
+  width: 65%;
+  float: left;
+  margin: 0;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  border-right: none;
+  padding-left: 1rem;
+}
+
+li{
+    text-align: center;
+    display: inline-block;
+    list-style-position: outside;
+    
+}
+button{
+    background-color: rgb(169, 180, 180);
+    width: 65%;
+    float: left;
+    margin: 0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    border-right: none;
+    padding-left: 1rem;
+}
