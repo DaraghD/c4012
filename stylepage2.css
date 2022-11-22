@@ -144,3 +144,56 @@ button{
 p6{
 font-size: medium;
 }
+#Help{
+    margin-top: 40px;
+font-size: 50px;
+font-family: Arial;
+color: white;
+text-align: center;
+font-style: italic;
+background-color: rgb(21, 0, 114);
+background-repeat: no-repeat;
+padding:10px;
+
+}
+
+#helpPageImage{
+    position: relative;
+    bottom:40px;
+}
+#helpPageText{
+    position:relative;
+    font-size: 25px;
+    color: rgb(21, 0, 114);
+    text-align:center;
+    
+}
+
+.Rights {
+    background-color:rgb(21, 0, 114);
+    box-sizing: border-box;
+    position:relative;
+    top: 510px;
+    text-align: center;
+    margin:auto;
+    clear: both;
+    padding: 5px;
+    border:solid 1px dark;
+    color:white;
+    
+
+}
+
+.info{
+    text-align: left;
+    position:relative;
+    top:510px;
+    color:white;
+    background-color:cornflowerblue;
+    padding:50px;   
+    border-top:solid 1px;
+    
+   
+    
+} 
+  
