@@ -46,7 +46,7 @@ text-align: center;
 font-style: italic;
 background-color: rgb(21, 0, 114);
 background-repeat: no-repeat;
-padding:150px;
+padding:10px;
 
 }
 
@@ -77,6 +77,17 @@ a.button1:hover{
 background-color: rgb(255, 71, 71);  
 text-decoration: none;
 transition:0.5s;
+}
+a.btton1:focus {
+    color:black;
+    border: 2px aqua;
+    box-shadow: 0px 0px 0px 1px aqua;
+    animation: anim-shadow .3s forwards;
+}
+@keyframes anim-shadow {
+    100%{
+        box-shadow:  0px 50px 20px aqua
+    }
 }
 
 .stats1{
@@ -129,4 +140,7 @@ button{
     border-top-right-radius: 0;
     border-right: none;
     padding-left: 1rem;
+}
+p6{
+font-size: medium;
 }
