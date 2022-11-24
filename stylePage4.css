@@ -1,0 +1,256 @@
+html{
+    background-color: aliceblue;
+}
+
+h4{
+    color: rgb(255, 255, 255);
+    margin: 20px;
+    font-size: 40px;
+}
+h1{
+    width: 50%;
+font-family: Arial;
+    color:rgb(0, 0, 0);
+    margin-top: -80px;
+    margin-left: 170px;
+    font-size: 35px;
+}
+
+h3{
+    font-family: Arial;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    color: rgb(21, 0, 114)
+}
+
+.text1{
+width: 70%;
+font-family: Arial;
+    color:rgb(0, 0, 0);
+    font-size: 15px;
+    line-height: 30px;
+    text-align: center;
+margin: auto
+;
+
+}
+
+#aboutUs{
+margin-top: 40px;
+font-size: 50px;
+font-family: Arial;
+color: white;
+text-align: center;
+font-style: italic;
+background-color: rgb(21, 0, 114);
+background-repeat: no-repeat;
+padding:10px;
+
+}
+
+header img{
+    margin: 20px;
+    margin-left: 40px;
+height: 100px;
+width: 100px;
+
+}
+
+a.button1 {
+    background-color: rgb(255, 148, 112);
+    border: 2px solid rgb(131, 109, 255);
+    border-radius: 9px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: Bold;
+    float: right;
+    margin-right: 40px;
+    font-size: 100%;
+    color: rgb(255, 255, 255);
+}
+
+a.button1:hover{
+background-color: rgb(255, 71, 71);  
+text-decoration: none;
+transition:0.5s;
+}
+a.button1:focus {
+    color:black;
+    border: 1px aqua;
+    box-shadow: 0px 0px 0px 1px aqua;
+    animation: anim-shadow .1s forwards;
+}
+@keyframes anim-shadow {
+    100%{
+        box-shadow:  0px 10px 20px aqua
+    }
+}
+
+.stats1{
+    color: aliceblue;
+font-size: 20px;
+font-family: Arial;
+float: left;
+text-align: center;
+width: 30%;
+margin-left: 15px;
+left: 50%;
+padding: 10px;
+border: 1px solid;
+border-radius: 9px;
+margin-top: 30px;
+margin-bottom: 10px;
+background-color:rgb(21, 0, 114) ;
+}
+
+h5{
+    font-size: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
+
+.textbox {
+    background-color: rgb(169, 180, 180);
+  width: 65%;
+  float: left;
+  margin: 0;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  border-right: none;
+  padding-left: 1rem;
+}
+
+li{
+    text-align: center;
+    display: inline-block;
+    list-style-position: outside;
+    
+}
+button{
+    background-color: rgb(169, 180, 180);
+    width: 65%;
+    float: left;
+    margin: 0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    border-right: none;
+    padding-left: 1rem;
+}
+p6{
+font-size: medium;
+}
+#Help{
+    margin-top: 40px;
+font-size: 50px;
+font-family: Arial;
+color: white;
+text-align: center;
+font-style: italic;
+background-color: rgb(21, 0, 114);
+background-repeat: no-repeat;
+padding:10px;
+
+}
+
+#helpPageImage{
+    position: relative;
+    bottom:42px;
+}
+#helpPageText{
+    position:relative;
+    font-size: 25px;
+    color: rgb(21, 0, 114);
+    text-align:center;
+    
+}
+
+.rights {
+    background-color:rgb(21, 0, 114);
+    box-sizing: border-box;
+    position:relative;
+    top:160px;
+    text-align: center;
+    margin:auto;
+    clear: both;
+    padding: 5px;
+    color:white;
+    
+    
+}
+
+.info{
+    text-align: left;
+    position:relative;
+    top:2500px;
+    color:white;
+    background-color:deepskyblue;
+    padding:50px;   
+    border:solid 10x;
+
+}
+.infoPage2{
+    text-align: left;
+    position:relative;
+    top: 250px;
+    color:white;
+    background-color:cornflowerblue;
+    padding:50px;   
+    border-top:solid 1px;
+
+
+
+} 
+
+.donate{
+    position: relative;
+    margin:auto;
+    text-align: center;
+    bottom: 170px;
+    border:solid;
+    background-color:deepskyblue;
+    border-radius:10px;
+    clear:both;
+}
+.charityEvent{
+    position:relative;
+    bottom:130px;
+    text-align:center;
+    float:left;
+    width: 49%;
+    border:solid;
+    padding:50px;
+    background-color: deepskyblue;
+    box-sizing: border-box;
+    clear:both;
+    border-radius: 10px;
+    
+}
+.news{
+    position:relative;
+    bottom:130px;
+    float:right;
+    text-align:center;
+    width:49%;
+    padding:50px;
+    box-sizing: border-box;
+    border:solid;
+    background-color: deepskyblue;
+    border-radius: 10px;
+
+}
+.vid{
+    clear: both;
+    text-align: center;
+    position: relative;
+    bottom:90px;
+    border:solid;
+    width:100%;
+    border-radius: 10px;
+    padding:50px;
+    box-sizing: border-box;  
+    background-color: deepskyblue;
+}
