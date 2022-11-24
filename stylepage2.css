@@ -21,7 +21,7 @@ h3{
     font-family: Arial;
     text-align: center;
     padding: 15px;
-    font-size: 30px;
+    font-size: 35px;
     color: rgb(21, 0, 114)
 }
 
@@ -29,7 +29,7 @@ h3{
 width: 70%;
 font-family: Arial;
     color:rgb(0, 0, 0);
-    font-size: 15px;
+    font-size: 20px;
     line-height: 30px;
     text-align: center;
 margin: auto
@@ -102,10 +102,14 @@ left: 50%;
 padding: 10px;
 border: 1px solid;
 border-radius: 9px;
-margin-top: 30px;
+margin-top: 40px;
 margin-bottom: 10px;
 background-color:rgb(21, 0, 114) ;
 }
+
+.donateNowLink{
+    margin-top: 240px;
+       }
 
 h5{
     font-size: 40px;
@@ -188,7 +192,7 @@ padding:10px;
     background-color:rgb(21, 0, 114);
     box-sizing: border-box;
     position:relative;
-    top: 250px;
+    top: 15px;
     text-align: center;
     margin:auto;
     clear: both;
@@ -210,13 +214,13 @@ padding:10px;
     .infoPage2{
         text-align: left;
         position:relative;
-        top: 250px;
+        top: 15px;
         color:white;
         background-color:cornflowerblue;
         padding:50px;   
         border-top:solid 1px;
+    }
+
     
-   
-    
-} 
+
   
