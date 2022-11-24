@@ -13,7 +13,7 @@ h1{
 font-family: Arial;
     color:rgb(0, 0, 0);
     margin-top: -80px;
-    margin-left: 170px;
+    margin-left: 160px;
     font-size: 35px;
 }
 
@@ -68,7 +68,7 @@ a.button1 {
     font-family: Arial;
     font-weight: Bold;
     float: right;
-    margin-right: 40px;
+    margin-right: 10px;
     font-size: 100%;
     color: rgb(255, 255, 255);
 }
@@ -79,14 +79,14 @@ text-decoration: none;
 transition:0.5s;
 }
 a.button1:focus {
-    color:black;
-    border: 1px aqua;
-    box-shadow: 0px 0px 0px 1px aqua;
+    color:rgb(255, 255, 255);
+    border: 1px rgb(216, 216, 216);
+    box-shadow: 0px 0px 0px 1px rgb(216, 216, 216);
     animation: anim-shadow .1s forwards;
 }
 @keyframes anim-shadow {
     100%{
-        box-shadow:  0px 10px 20px aqua
+        box-shadow:  0px 10px 10px rgb(216, 216, 216)
     }
 }
 
