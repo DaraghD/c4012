@@ -13,7 +13,7 @@ h1{
 font-family: Arial;
     color:rgb(0, 0, 0);
     margin-top: -80px;
-    margin-left: 170px;
+    margin-left: 160px;
     font-size: 35px;
 }
 
@@ -21,7 +21,7 @@ h3{
     font-family: Arial;
     text-align: center;
     padding: 15px;
-    font-size: 30px;
+    font-size: 35px;
     color: rgb(21, 0, 114)
 }
 
@@ -29,7 +29,7 @@ h3{
 width: 70%;
 font-family: Arial;
     color:rgb(0, 0, 0);
-    font-size: 15px;
+    font-size: 20px;
     line-height: 30px;
     text-align: center;
 margin: auto
@@ -57,7 +57,6 @@ height: 100px;
 width: 100px;
 
 }
-
 
 a.button1 {
     background-color: rgb(255, 148, 112);
@@ -93,7 +92,7 @@ a.button1:focus {
 
 .stats1{
     color: aliceblue;
-font-size: 20px;
+font-size: 30px;
 font-family: Arial;
 float: left;
 text-align: center;
@@ -103,27 +102,14 @@ left: 50%;
 padding: 10px;
 border: 1px solid;
 border-radius: 9px;
-margin-top: 30px;
+margin-top: 40px;
 margin-bottom: 10px;
 background-color:rgb(21, 0, 114) ;
 }
 
-.statsPg3{
-    color: aliceblue;
-font-size: 90px;
-font-family: Arial;
-float: left;
-text-align: center;
-width: 90%;
-margin-left: 15px;
-left: 50%;
-padding: 10px;
-border: 0px solid;
-border-radius: 9px;
-margin-top: 30px;
-margin-bottom: 10px;
-background-color:rgb(21, 0, 114) ;
-}
+.donateNowLink{
+    margin-top: 340px;
+       }
 
 h5{
     font-size: 40px;
@@ -160,12 +146,7 @@ button{
     padding-left: 1rem;
 }
 p6{
-font-size: 25px;
-}
-p4{
-    font-size: 20px;
-    ;
-   
+font-size: medium;
 }
 #Help{
     margin-top: 40px;
@@ -182,7 +163,7 @@ padding:10px;
 
 #helpPageImage{
     position: relative;
-    bottom:42px;
+    bottom:40px;
 }
 #helpPageText{
     position:relative;
@@ -196,21 +177,22 @@ padding:10px;
     background-color:rgb(21, 0, 114);
     box-sizing: border-box;
     position:relative;
-    top:194px;
+    top: 510px;
     text-align: center;
     margin:auto;
     clear: both;
     padding: 5px;
+    border:solid 1px dark;
     color:white;
     
-    
+
 }
 
 .rightsPage2 {
     background-color:rgb(21, 0, 114);
     box-sizing: border-box;
     position:relative;
-    top: 250px;
+    top: 15px;
     text-align: center;
     margin:auto;
     clear: both;
@@ -222,47 +204,23 @@ padding:10px;
 .info{
     text-align: left;
     position:relative;
-    top:2500px;
+    top:510px;
     color:white;
-    background-color:deepskyblue;
+    background-color:cornflowerblue;
     padding:50px;   
-    border:solid 10x;
-
+    border-top:solid 1px;
 }
 
     .infoPage2{
         text-align: left;
         position:relative;
-        top: 250px;
+        top: 15px;
         color:white;
         background-color:cornflowerblue;
         padding:50px;   
         border-top:solid 1px;
     }
 
-    .infoPage3{
-        text-align: left;
-        position:relative;
-        top: 15px;
-        color:white;
-        background-color:cornflowerblue;
-        padding:50px;
-        width: 300px;   
-        border-top:solid 1px;  
-    }
-    .rightsPage3 {
-        background-color:cornflowerblue;
-        box-sizing: border-box;
-        position:relative;
-        top: 250px;
-        text-align: center;
-        margin:auto;
-        clear: both;
-        padding: 5px;
-        border:solid 1px dark;
-        color:white;
-    }
-   
     
-} 
+
   
