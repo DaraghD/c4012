@@ -188,7 +188,7 @@ padding:10px;
     position:relative;
     top:2500px;
     color:white;
-    background-color:deepskyblue;
+    background-color:rgb(21,0,114);
     padding:50px;   
     border:solid 10x;
 
@@ -198,7 +198,7 @@ padding:10px;
     position:relative;
     top: 250px;
     color:white;
-    background-color:cornflowerblue;
+    background-color:rgb(21,0,114);
     padding:50px;   
     border-top:solid 1px;
 
@@ -212,7 +212,7 @@ padding:10px;
     text-align: center;
     bottom: 170px;
     border:solid;
-    background-color:deepskyblue;
+    background-color:rgb(21,0,114);
     border-radius:10px;
     clear:both;
 }
@@ -224,7 +224,7 @@ padding:10px;
     width: 49%;
     border:solid;
     padding:50px;
-    background-color: deepskyblue;
+    background-color: rgb(21,0,114);
     box-sizing: border-box;
     clear:both;
     border-radius: 10px;
@@ -239,7 +239,7 @@ padding:10px;
     padding:50px;
     box-sizing: border-box;
     border:solid;
-    background-color: deepskyblue;
+    background-color: rgb(21,0,114);
     border-radius: 10px;
 
 }
@@ -253,5 +253,5 @@ padding:10px;
     border-radius: 10px;
     padding:50px;
     box-sizing: border-box;  
-    background-color: deepskyblue;
+    background-color: rgb(21,0,114);
 }
