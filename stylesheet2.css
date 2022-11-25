@@ -192,7 +192,7 @@ padding:10px;
     background-color:rgb(21, 0, 114);
     box-sizing: border-box;
     position:relative;
-    top: 50px;
+    top: 100px;
     text-align: center;
     margin:auto;
     clear: both;
@@ -214,7 +214,7 @@ padding:10px;
     .infoPage2{
         text-align: left;
         position:relative;
-        top: 50px;
+        top: 100px;
         color:white;
         background-color:cornflowerblue;
         padding:50px;   
